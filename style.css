@@ -57,6 +57,11 @@ main p {
   color: var(--grayishBlue);
 }
 
+footer {
+  position: absolute;
+  bottom: 2%;
+}
+
 @media screen and (max-width: 400px) {
   body {
     overflow-y: scroll;
